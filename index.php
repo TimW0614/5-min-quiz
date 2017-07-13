@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
 	<head>
-		<title>I completed the prework</title>
+		<title>5 min quiz</title>
 	</head>
 	<body>
-		<p>I completed the prework !</p>
+		<p>5 min quiz</p>
 	</body>
 </html>
